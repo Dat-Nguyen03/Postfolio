@@ -59,9 +59,9 @@ export default function About() {
         development, I am proficient in{" "}
         <span className="font-medium">Node.js, Express.js, and MongoDB, </span>
         enabling me to build robust and scalable server-side applications.
-        Additionally, I have experience with{" "}
+        {/* Additionally, I have experience with{" "}
         <span className="font-medium">React Native</span> for mobile app
-        development, allowing me to create seamless cross-platform experiences.
+        development, allowing me to create seamless cross-platform experiences. */}
       </p>
       <p className="mb-3">
         <i>My goal for the next 2 years </i>
